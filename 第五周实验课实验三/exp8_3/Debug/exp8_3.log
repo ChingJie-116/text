@@ -1,0 +1,11 @@
+﻿  exp8_3View.cpp
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(174): error C2039: “a”: 不是“Cexp8_3Doc”的成员
+  d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3doc.h(9): note: 参见“Cexp8_3Doc”的声明
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(174): error C2228: “.x”的左边必须有类/结构/联合
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(175): error C2039: “a”: 不是“Cexp8_3Doc”的成员
+  d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3doc.h(9): note: 参见“Cexp8_3Doc”的声明
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(175): error C2228: “.y”的左边必须有类/结构/联合
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(178): error C2039: “a”: 不是“Cexp8_3Doc”的成员
+  d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3doc.h(9): note: 参见“Cexp8_3Doc”的声明
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(178): error C2228: “.x”的左边必须有类/结构/联合
+d:\source\repos\newrepo\0324三个实验（第五周实验课实验 第三个实验没写完）\exp8_3\exp8_3\exp8_3view.cpp(178): error C2228: “.y”的左边必须有类/结构/联合
